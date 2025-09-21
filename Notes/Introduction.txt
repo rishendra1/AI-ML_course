@@ -1,0 +1,5 @@
+1. Machine learning (ML) is a branch of Artificial Intelligence (AI) that enables computer systems to learn from 
+  data and improve their performance on tasks over time without being explicitly programmed
+2. Teachable Machine is a free web-based tool by Google that lets anyone train machine learning models (images, sounds, or poses) without coding.
+3. It is mainly used for education, quick AI prototyping, and building models that can be exported to apps, websites, or devices.
+4. A framework is a foundational, reusable structure or set of guidelines that provides support, rules, and basic components for building something
