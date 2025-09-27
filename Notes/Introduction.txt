@@ -3,3 +3,17 @@
 2. Teachable Machine is a free web-based tool by Google that lets anyone train machine learning models (images, sounds, or poses) without coding.
 3. It is mainly used for education, quick AI prototyping, and building models that can be exported to apps, websites, or devices.
 4. A framework is a foundational, reusable structure or set of guidelines that provides support, rules, and basic components for building something
+Machine learning types:-
+5. Supervised learning is a machine learning approach that trains an algorithm using labeled data, where each input example is paired with a corresponding correct output.
+6. Unsupervised learning is a machine learning type where algorithms learn from unlabeled data to find hidden patterns and
+  structures without human guidance.
+7. Transfer learning is a machine learning technique where a model trained on one task is reused as the starting point for a 
+  new, related task.
+8. Reinforcement learning (RL) is a machine learning technique where an agent learns to make decisions by taking actions in an
+  environment to achieve a goal, receiving rewards for good actions and penalties for bad ones.
+Types oF Data:-
+9. Structured Data: csv files, excel files [contains rows and columns]
+10. Unstructured Data: Opposite to 9.)
+11. Streaming Data: It is a type of data , which is changed constantly over time.
+12. Parts of modelling Data :- 1. Choosing and Training a model 2. Tuning a model 3. Model Comparison
+13. 
